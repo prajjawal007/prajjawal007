@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjawal007&label=Profile%20views&color=0e75b6&style=flat" alt="prajjawal007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajjawal007" alt="prajjawal007" /></a> </p>
 
 - 🌱 I’m currently learning **New languages**
 
